@@ -1,0 +1,5 @@
+names:
+  0: person
+nc: 1
+train: /Users/abhinavkrishna/Desktop/AutoML/yolo_train_data/train
+val: /Users/abhinavkrishna/Desktop/AutoML/yolo_train_data/val
